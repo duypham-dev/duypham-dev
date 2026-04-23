@@ -1,51 +1,77 @@
 <h1 align="center">Hi, I'm Pham Phuc Duy 👋</h1>
-<h3 align="center">I'm an information technology student with a passion for coding.</h3>
+<h3 align="center">Final-year Information Technology Student at PTIT | Frontend & Fullstack Developer</h3>
 
-<!-- Thêm GIF và Connect with me -->
-<img src="https://i.ibb.co/Z1HcSPDw/background-removed-background-removed.png" width="300" align="left"/>
+<p align="center">
+  Passionate about building scalable, user-centric web applications with modern JavaScript and TypeScript ecosystems.
+</p>
 
-<br/>
+---
 
+## 👨‍💻 About Me
 
-<h3 align="left">💻 Tech Stack:</h3> <a align="left"><img src="https://skillicons.dev/icons?i=docker,express,firebase,java,js,mysql,nodejs,postgres" />
-<img src="https://skillicons.dev/icons?i=aws,postman,py,pytorch,react" />
-</a>
-
-
-
-<br clear="all" />
-
-
-
-
-<h3 align="left" >Connect with me:</h3>
-<a href="https://www.facebook.com/duyy.me/" target="_blank">
+- I’m a **4th-year Information Technology student** at  
+  **Posts and Telecommunications Institute of Technology (PTIT), Vietnam**
+- Currently focusing on: **TypeScript, JavaScript, ReactJS**
+- Currently learning: **Modern web architecture, backend integrations, and cloud-ready development**
+- Strength: Bridging clean frontend engineering with robust backend systems
+- 📫 Contact: <a href="https://www.facebook.com/duyy.me/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
 </a>
 
 ---
 
-<br/>
+## 🛠️ Tech Stack
 
+### Frontend & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css" />
+</p>
 
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma,kafka" />
+</p>
 
+### Database & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,prisma" />
+</p>
 
+### DevOps, Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,nginx,postman,git" />
+</p>
 
+### Testing & Quality
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
+</p>
 
-<h2>My stats ⭐</h2>
+---
 
-<div align="center">
-<img alt="duypham-dev's GitHub stats" src="https://myprofilestat.vercel.app/api?username=duypham-dev&show_icons=true&theme=radical"/>
-<img alt="Top langs" src="https://myprofilestat.vercel.app/api/top-langs/?username=duypham-dev&layout=compact&&langs_count=8&theme=radical"/>
+## 📈 GitHub Analytics
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-olive-56.vercel.app?user=duypham-dev&theme=tokyonight" alt="GitHub Streak" /></a>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duypham-dev&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duypham-dev&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</p>
 
-### <h2>My project 📌</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duypham-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+---
 
+## 📌 Featured Project
 
-<div>
+<p align="center">
+  <a href="https://github.com/duypham-dev/book-recommendation-system-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=radical&hide_border=true" alt="Book Recommendation System Backend" />
+  </a>
+</p>
 
-[![Readme Card](https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=merko)]([https://github.com/duypham-dev/book-recommendation-system-backend.git](https://github.com/duypham-dev/book-recommendation-system-backend.git))
-</div>
+---
+
+## 🤝 Career Goal
+
+I aim to become a professional **Frontend/Fullstack Engineer**, delivering high-quality products that combine performance, maintainability, and excellent user experience.
