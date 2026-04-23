@@ -68,6 +68,9 @@
   <a href="https://github.com/duypham-dev/book-recommendation-system-backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=radical&hide_border=true" alt="Book Recommendation System Backend" />
   </a>
+  <a href="https://github.com/duypham-dev/book-recommendation-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-frontend&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ---
