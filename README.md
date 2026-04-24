@@ -39,13 +39,9 @@
 
 ### DevOps, Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,nginx,postman,git" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,postman,git" />
 </p>
 
-### Testing & Quality
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,vitest" />
-</p>
 
 ---
 
