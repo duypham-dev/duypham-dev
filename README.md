@@ -48,8 +48,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duypham-dev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duypham-dev&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="165" src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://myprofilestat.vercel.app/api/top-langs/?username=duypham-dev&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -62,10 +62,10 @@
 
 <p align="center">
   <a href="https://github.com/duypham-dev/book-recommendation-system-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=radical&hide_border=true" alt="Book Recommendation System Backend" />
+    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=radical&hide_border=true" alt="Book Recommendation System Backend" />
   </a>
   <a href="https://github.com/duypham-dev/book-recommendation-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-frontend&theme=radical&hide_border=true" />
+    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-frontend&theme=radical&hide_border=true" />
   </a>
 </p>
 
