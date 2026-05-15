@@ -14,8 +14,9 @@
 - Currently focusing on: **TypeScript, JavaScript, ReactJS**
 - Currently learning: **Modern web architecture, backend integrations, and cloud-ready development**
 - Strength: Bridging clean frontend engineering with robust backend systems
-- 📫 Contact: <a href="https://www.facebook.com/duyy.me/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
+- 📫 Contact: <a href="https://fb.com/https://www.facebook.com/duyy.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/duyy.me/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/phamphucduy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phamphucduy/" height="30" width="40" /></a>
+</a>
 </a>
 
 ---
