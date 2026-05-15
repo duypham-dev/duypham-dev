@@ -48,7 +48,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://myprofilestat.vercel.app/api?username=duypham-dev&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://myprofilestat.vercel.app/api/top-langs/?username=duypham-dev&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
 
