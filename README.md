@@ -33,9 +33,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma" />
 </p>
 
-### Database & ORM
+### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,prisma" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" />
 </p>
 
 ### DevOps, Cloud & Tools
