@@ -29,10 +29,6 @@
 </p>
 
 ### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma,kafka" />
-</p>
-
 ### Database & ORM
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,prisma" />
