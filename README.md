@@ -25,7 +25,7 @@
 
 ### Frontend & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui,html,css" />
 </p>
 
 ### Backend & APIs
